@@ -12,7 +12,7 @@ This extension is developed and maintained by **Edusharks**. Learn more at [edus
 3. Click the **gear icon** in the top-right and select **Extensions**.
 4. Search or paste the following URL:
 ```
-https://edusharks.github.io/onebit_blocks
+https://edusharks.github.io/onebit-blocks
 ```
 5. Start using the **One:Bit** blocks in your project!
 
